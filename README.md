@@ -35,6 +35,3 @@ A simple storage contract that allows users to:
 - State variables vs functions
 - `view` functions for reading data
 - Modifying state with transactions
-
-## 🔗 Bootcamp Info
-Part of CSEC ASTU BTB Blockchain Community Bootcamp (March 30 - April 3, 2026)
